@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Gabriel
 
 ## About Me
-- Master of IT student at Monash University. / AWS Certified Developer & Solutions Architect – Associate
+- Master of IT student at Monash University. / AWS Certified Developer & Solutions Architect – Associate [![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/-AWS%20SAA-orange?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) [![AWS Certified Developer – Associate](https://img.shields.io/badge/-AWS%20DVA-blue?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)
 
 - Proficient in programming(Python, Java, Javascript, C#, Kotlin), full-stack development(HTML, CSS, jQuery, React, ASP.NET, Node.js, Express), Android(Jetpack Compose), database(SQL, Oracle, PostgreSQL, MongoDB), testing & CI/CD(JUnit, GitLab CI, SonarQube), Cloud(AWS), Docker, Kubernetes and Git.
 
@@ -50,10 +50,10 @@ Join the journey: [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red
 ## Projects
 - **Project 1**: [BreathEasy: Pollen Allergy Relief App Built with Jetpack Compose](https://youtu.be/_ZVzK0NkH-U?si=DISL2ZM9Fl6S_x-Y) - Description
 - **Project 2**: [PixTag: An AWS-powered Serverless Image Storage System with Advanced Tagging Capabilities](https://master.dkcd5e2fdx0x9.amplifyapp.com/) - Description
-- **Project 3**: [Project Name](link-to-project) - Description
+- **Project 3**: [A React-based map app with AWS backend offering well-lit walking routes](https://hersafehome.me/) - Description
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-yuzhou-zhang/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:gblzyz@gmail.com)
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about tech!
+Feel free to reach out if you have any questions, or collaboration opportunities, or just want to chat about tech!
