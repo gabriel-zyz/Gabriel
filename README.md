@@ -48,9 +48,9 @@ Join the journey: [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
 
 ## Projects
-- **Project 1**: [BreathEasy: Pollen Allergy Relief App Built with Jetpack Compose](https://youtu.be/_ZVzK0NkH-U?si=DISL2ZM9Fl6S_x-Y) - Description
-- **Project 2**: [PixTag: An AWS-powered Serverless Image Storage System with Advanced Tagging Capabilities](https://master.dkcd5e2fdx0x9.amplifyapp.com/) - Description
-- **Project 3**: [A React-based map app with AWS backend offering well-lit walking routes](https://hersafehome.me/) - Description
+- **Project 1**: [BreathEasy: Pollen Allergy Relief App Built with Jetpack Compose](https://youtu.be/_ZVzK0NkH-U?si=DISL2ZM9Fl6S_x-Y)
+- **Project 2**: [PixTag: An AWS-powered Serverless Image Storage System with Advanced Tagging Capabilities](https://master.dkcd5e2fdx0x9.amplifyapp.com/)
+- **Project 3**: [A React-based map app with AWS backend offering well-lit walking routes](https://hersafehome.me/)
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-yuzhou-zhang/)
