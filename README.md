@@ -1,7 +1,10 @@
 # Hi there! 👋 I'm Gabriel
 
 ## About Me
-- Master of IT student at Monash University. Proficient in programming(Python, Java, Javascript, C#, Kotlin), full-stack development(HTML, CSS, jQuery, React, ASP.NET, Node.js, Express), database(SQL, Oracle, PostgreSQL, MongoDB), testing & CI/CD(JUnit, GitLab CI, SonarQube), Cloud(AWS), Docker and Git.
+- Master of IT student at Monash University. / AWS Certified Developer & Solutions Architect – Associate
+
+- Proficient in programming(Python, Java, Javascript, C#, Kotlin), full-stack development(HTML, CSS, jQuery, React, ASP.NET, Node.js, Express), Android(Jetpack Compose), database(SQL, Oracle, PostgreSQL, MongoDB), testing & CI/CD(JUnit, GitLab CI, SonarQube), Cloud(AWS), Docker, Kubernetes and Git.
+
 
 - Marketing and media professional with 8 years of experience working in the healthcare, technology and broadcasting industry. Experienced in branding, digital marketing, data analyses, multimedia production and project management.
 
@@ -45,8 +48,8 @@ Join the journey: [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
 
 ## Projects
-- **Project 1**: [Project Name](link-to-project) - Description
-- **Project 2**: [Project Name](link-to-project) - Description
+- **Project 1**: [BreathEasy: Pollen Allergy Relief App Built with Jetpack Compose](https://youtu.be/_ZVzK0NkH-U?si=DISL2ZM9Fl6S_x-Y) - Description
+- **Project 2**: [PixTag: An AWS-powered Serverless Image Storage System with Advanced Tagging Capabilities](https://master.dkcd5e2fdx0x9.amplifyapp.com/) - Description
 - **Project 3**: [Project Name](link-to-project) - Description
 
 ## Get in Touch
